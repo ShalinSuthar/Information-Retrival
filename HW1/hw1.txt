@@ -1,0 +1,13 @@
+﻿Search Engine Used: Bing
+
+
+Average Overlap: 2.111109
+
+
+Average Percent Overlap: 21.11109
+
+
+Average Spearman coefficient: -10.04796975
+
+
+It is quite evident that the top 10 Bing search results are not matching with top 10 Google search results. Average overlapping results are just 2.11. Out of 100 queries only 6 have positive Rho and 59 results have negative Rho values; while for the remaining 35 queries they have 0 matching results. Average Spearman Coefficient is -10.04796975; which clearly suggests that both search engines give quite dissimilar results.
