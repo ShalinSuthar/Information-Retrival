@@ -1,0 +1,30 @@
+Name: Tommy Trojan
+USC ID: 1234567890
+News site crawled: nytimes.com
+Number of threads: 7
+Fetch Statistics
+================
+# fetches attempted: 20015
+# fetches succeeded: 20015
+# fetches failed or aborted: 0
+Outgoing URLs:
+==============
+Total URLs extracted: 20015
+# unique URLs within News Site: 0
+# unique URLs outside News Site: 20015
+Status Codes:
+=============
+200: 20015
+File Sizes:
+===========
+< 1KB: 19185
+1KB ~ <10KB: 830
+10KB ~ <100KB: 0
+100KB ~ <1MB: 0
+>= 1MB: 0
+Content Types:
+===============
+text/html: 19922
+application/rss+xml: 1
+other: 89
+text/xml: 3
