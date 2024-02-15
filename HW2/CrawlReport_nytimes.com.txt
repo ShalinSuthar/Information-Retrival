@@ -1,30 +1,36 @@
-Name: Tommy Trojan
-USC ID: 1234567890
+Name: Shalin Suthar
+USC ID: 8333139319
 News site crawled: nytimes.com
-Number of threads: 7
+Number of threads: 1
+
 Fetch Statistics
 ================
-# fetches attempted: 20015
-# fetches succeeded: 20015
+# fetches attempted: 19997
+# fetches succeeded: 19997
 # fetches failed or aborted: 0
+
 Outgoing URLs:
 ==============
-Total URLs extracted: 20015
-# unique URLs within News Site: 0
-# unique URLs outside News Site: 20015
+Total URLs extracted: 2451274
+# unique URLs extracted: 759352
+# unique URLs within News Site: 543339
+# unique URLs outside News Site: 116013
+
 Status Codes:
 =============
-200: 20015
+200: 19997
+
 File Sizes:
 ===========
-< 1KB: 19185
-1KB ~ <10KB: 830
-10KB ~ <100KB: 0
-100KB ~ <1MB: 0
->= 1MB: 0
+< 1KB: 37
+1KB ~ <10KB: 22
+10KB ~ <100KB: 3394
+100KB ~ <1MB: 15716
+>= 1MB: 828
+
 Content Types:
 ===============
-text/html: 19922
+text/html: 19904
 application/rss+xml: 1
-other: 89
+image/svg+xml: 89
 text/xml: 3
